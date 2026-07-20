@@ -1,5 +1,8 @@
-__pycache__/
-*.pyc
+streamlit
+scikit-learn
+numpy
+pandas
+Pillow
 *.pyo
 .DS_Store
 *.egg-info/
