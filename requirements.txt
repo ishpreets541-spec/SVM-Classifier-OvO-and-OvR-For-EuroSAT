@@ -3,16 +3,3 @@ scikit-learn
 numpy
 pandas
 Pillow
-*.pyo
-.DS_Store
-*.egg-info/
-dist/
-build/
-.venv/
-venv/
-node_modules/
-make_guide.js
-EuroSAT/
-*.jpg
-*.json
-*.csv
