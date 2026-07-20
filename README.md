@@ -1,4 +1,4 @@
-# GNR602: EuroSAT SVM Land Cover Classifier
+ EuroSAT SVM Land Cover Classifier
 
 A Tkinter-based desktop application for classifying EuroSAT satellite imagery
 using Support Vector Machines (SVM). Compares **One-vs-One (OvO)** and
