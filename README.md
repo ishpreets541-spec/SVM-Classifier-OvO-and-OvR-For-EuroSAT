@@ -150,6 +150,17 @@ svm-eurosat/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+# 👩‍💻 Author
+
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+
+
+
 ```
 
 ---
